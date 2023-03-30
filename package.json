@@ -1,5 +1,6 @@
 {
   "name": "goovii-pos",
+  "homepage": "http://care.smartmaster-app.com/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
