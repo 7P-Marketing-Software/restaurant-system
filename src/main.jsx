@@ -8,7 +8,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Login from './components/login/Login';
-import Signup from './signup/Signup';
+import Signup from './components/signup/Signup';
 import HomePage from './pages/HomePage';
 
 const router = createBrowserRouter([
